@@ -1,0 +1,60 @@
+\\Mac\Home\Desktop\T2\EMKAN_T2\EMKAN\EMKAN.DataAction\bin\Debug\net5.0\EMKAN.DataAction.deps.json
+\\Mac\Home\Desktop\T2\EMKAN_T2\EMKAN\EMKAN.DataAction\bin\Debug\net5.0\EMKAN.DataAction.dll
+\\Mac\Home\Desktop\T2\EMKAN_T2\EMKAN\EMKAN.DataAction\bin\Debug\net5.0\ref\EMKAN.DataAction.dll
+\\Mac\Home\Desktop\T2\EMKAN_T2\EMKAN\EMKAN.DataAction\bin\Debug\net5.0\EMKAN.DataAction.pdb
+\\Mac\Home\Desktop\T2\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Debug\net5.0\EMKAN.DataAction.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\T2\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Debug\net5.0\EMKAN.DataAction.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\T2\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Debug\net5.0\EMKAN.DataAction.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\T2\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Debug\net5.0\EMKAN.DataAction.AssemblyInfo.cs
+\\Mac\Home\Desktop\T2\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Debug\net5.0\EMKAN.DataAction.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\T2\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Debug\net5.0\EMKAN.DataAction.dll
+\\Mac\Home\Desktop\T2\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Debug\net5.0\ref\EMKAN.DataAction.dll
+\\Mac\Home\Desktop\T2\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Debug\net5.0\EMKAN.DataAction.pdb
+\\Mac\Home\Desktop\New Emkan\EMKAN_T2\EMKAN\EMKAN.DataAction\bin\Debug\net5.0\EMKAN.DataAction.deps.json
+\\Mac\Home\Desktop\New Emkan\EMKAN_T2\EMKAN\EMKAN.DataAction\bin\Debug\net5.0\EMKAN.DataAction.dll
+\\Mac\Home\Desktop\New Emkan\EMKAN_T2\EMKAN\EMKAN.DataAction\bin\Debug\net5.0\ref\EMKAN.DataAction.dll
+\\Mac\Home\Desktop\New Emkan\EMKAN_T2\EMKAN\EMKAN.DataAction\bin\Debug\net5.0\EMKAN.DataAction.pdb
+\\Mac\Home\Desktop\New Emkan\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Debug\net5.0\EMKAN.DataAction.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\New Emkan\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Debug\net5.0\EMKAN.DataAction.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\New Emkan\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Debug\net5.0\EMKAN.DataAction.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\New Emkan\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Debug\net5.0\EMKAN.DataAction.AssemblyInfo.cs
+\\Mac\Home\Desktop\New Emkan\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Debug\net5.0\EMKAN.DataAction.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\New Emkan\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Debug\net5.0\EMKAN.DataAction.dll
+\\Mac\Home\Desktop\New Emkan\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Debug\net5.0\ref\EMKAN.DataAction.dll
+\\Mac\Home\Desktop\New Emkan\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Debug\net5.0\EMKAN.DataAction.pdb
+C:\EMKAN_T2\EMKAN\EMKAN.DataAction\bin\Debug\net5.0\EMKAN.DataAction.deps.json
+C:\EMKAN_T2\EMKAN\EMKAN.DataAction\bin\Debug\net5.0\EMKAN.DataAction.dll
+C:\EMKAN_T2\EMKAN\EMKAN.DataAction\bin\Debug\net5.0\ref\EMKAN.DataAction.dll
+C:\EMKAN_T2\EMKAN\EMKAN.DataAction\bin\Debug\net5.0\EMKAN.DataAction.pdb
+C:\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Debug\net5.0\EMKAN.DataAction.csprojAssemblyReference.cache
+C:\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Debug\net5.0\EMKAN.DataAction.GeneratedMSBuildEditorConfig.editorconfig
+C:\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Debug\net5.0\EMKAN.DataAction.AssemblyInfoInputs.cache
+C:\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Debug\net5.0\EMKAN.DataAction.AssemblyInfo.cs
+C:\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Debug\net5.0\EMKAN.DataAction.csproj.CoreCompileInputs.cache
+C:\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Debug\net5.0\EMKAN.DataAction.dll
+C:\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Debug\net5.0\ref\EMKAN.DataAction.dll
+C:\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Debug\net5.0\EMKAN.DataAction.pdb
+C:\Sara EMKAN\EMKAN_T2\EMKAN\EMKAN.DataAction\bin\Debug\net5.0\EMKAN.DataAction.deps.json
+C:\Sara EMKAN\EMKAN_T2\EMKAN\EMKAN.DataAction\bin\Debug\net5.0\EMKAN.DataAction.dll
+C:\Sara EMKAN\EMKAN_T2\EMKAN\EMKAN.DataAction\bin\Debug\net5.0\ref\EMKAN.DataAction.dll
+C:\Sara EMKAN\EMKAN_T2\EMKAN\EMKAN.DataAction\bin\Debug\net5.0\EMKAN.DataAction.pdb
+C:\Sara EMKAN\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Debug\net5.0\EMKAN.DataAction.csprojAssemblyReference.cache
+C:\Sara EMKAN\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Debug\net5.0\EMKAN.DataAction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sara EMKAN\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Debug\net5.0\EMKAN.DataAction.AssemblyInfoInputs.cache
+C:\Sara EMKAN\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Debug\net5.0\EMKAN.DataAction.AssemblyInfo.cs
+C:\Sara EMKAN\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Debug\net5.0\EMKAN.DataAction.csproj.CoreCompileInputs.cache
+C:\Sara EMKAN\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Debug\net5.0\EMKAN.DataAction.dll
+C:\Sara EMKAN\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Debug\net5.0\ref\EMKAN.DataAction.dll
+C:\Sara EMKAN\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Debug\net5.0\EMKAN.DataAction.pdb
+C:\Users\Nabaa\OneDrive\Desktop\LAST LAST V\EMKAN_T2\EMKAN\EMKAN.DataAction\bin\Debug\net5.0\EMKAN.DataAction.deps.json
+C:\Users\Nabaa\OneDrive\Desktop\LAST LAST V\EMKAN_T2\EMKAN\EMKAN.DataAction\bin\Debug\net5.0\EMKAN.DataAction.dll
+C:\Users\Nabaa\OneDrive\Desktop\LAST LAST V\EMKAN_T2\EMKAN\EMKAN.DataAction\bin\Debug\net5.0\ref\EMKAN.DataAction.dll
+C:\Users\Nabaa\OneDrive\Desktop\LAST LAST V\EMKAN_T2\EMKAN\EMKAN.DataAction\bin\Debug\net5.0\EMKAN.DataAction.pdb
+C:\Users\Nabaa\OneDrive\Desktop\LAST LAST V\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Debug\net5.0\EMKAN.DataAction.csproj.AssemblyReference.cache
+C:\Users\Nabaa\OneDrive\Desktop\LAST LAST V\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Debug\net5.0\EMKAN.DataAction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nabaa\OneDrive\Desktop\LAST LAST V\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Debug\net5.0\EMKAN.DataAction.AssemblyInfoInputs.cache
+C:\Users\Nabaa\OneDrive\Desktop\LAST LAST V\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Debug\net5.0\EMKAN.DataAction.AssemblyInfo.cs
+C:\Users\Nabaa\OneDrive\Desktop\LAST LAST V\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Debug\net5.0\EMKAN.DataAction.csproj.CoreCompileInputs.cache
+C:\Users\Nabaa\OneDrive\Desktop\LAST LAST V\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Debug\net5.0\EMKAN.DataAction.dll
+C:\Users\Nabaa\OneDrive\Desktop\LAST LAST V\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Debug\net5.0\ref\EMKAN.DataAction.dll
+C:\Users\Nabaa\OneDrive\Desktop\LAST LAST V\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Debug\net5.0\EMKAN.DataAction.pdb

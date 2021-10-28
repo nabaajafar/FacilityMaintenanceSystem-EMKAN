@@ -1,0 +1,12 @@
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.DataAction\bin\Release\net5.0\EMKAN.DataAction.deps.json
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.DataAction\bin\Release\net5.0\EMKAN.DataAction.dll
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.DataAction\bin\Release\net5.0\ref\EMKAN.DataAction.dll
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.DataAction\bin\Release\net5.0\EMKAN.DataAction.pdb
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Release\net5.0\EMKAN.DataAction.csproj.AssemblyReference.cache
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Release\net5.0\EMKAN.DataAction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Release\net5.0\EMKAN.DataAction.AssemblyInfoInputs.cache
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Release\net5.0\EMKAN.DataAction.AssemblyInfo.cs
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Release\net5.0\EMKAN.DataAction.csproj.CoreCompileInputs.cache
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Release\net5.0\EMKAN.DataAction.dll
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Release\net5.0\ref\EMKAN.DataAction.dll
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.DataAction\obj\Release\net5.0\EMKAN.DataAction.pdb
