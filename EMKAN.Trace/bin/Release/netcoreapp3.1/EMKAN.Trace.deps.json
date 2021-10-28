@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EMKAN.Trace/1.0.0": {
+        "runtime": {
+          "EMKAN.Trace.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EMKAN.Trace/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

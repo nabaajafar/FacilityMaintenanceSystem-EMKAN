@@ -1,0 +1,9 @@
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Trace\bin\Release\netcoreapp3.1\EMKAN.Trace.deps.json
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Trace\bin\Release\netcoreapp3.1\EMKAN.Trace.dll
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Trace\bin\Release\netcoreapp3.1\EMKAN.Trace.pdb
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Trace\obj\Release\netcoreapp3.1\EMKAN.Trace.csproj.AssemblyReference.cache
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Trace\obj\Release\netcoreapp3.1\EMKAN.Trace.AssemblyInfoInputs.cache
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Trace\obj\Release\netcoreapp3.1\EMKAN.Trace.AssemblyInfo.cs
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Trace\obj\Release\netcoreapp3.1\EMKAN.Trace.csproj.CoreCompileInputs.cache
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Trace\obj\Release\netcoreapp3.1\EMKAN.Trace.dll
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Trace\obj\Release\netcoreapp3.1\EMKAN.Trace.pdb
