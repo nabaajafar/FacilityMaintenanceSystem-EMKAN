@@ -1,0 +1,12 @@
+﻿
+
+
+.body {
+    min-height: calc(80vh - 70px);
+    background-image: url('/images/facilityhammer1 (3).png');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: contain;
+    background-position-x: right;
+    background-position-y: bottom;
+}

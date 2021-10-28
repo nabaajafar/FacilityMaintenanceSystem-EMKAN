@@ -1,0 +1,23 @@
+﻿@import "bootstrap/functions";
+@import "bootstrap/variables";
+
+
+$theme-colors: (
+  primary: #E7DEC8;
+);
+
+.fas fa-circle text-primary {
+    background-color: #E7DEC8;
+}
+
+.fas fa-circle text-success {
+    background-color: #CBAF87;
+}
+
+.fas fa-circle text-danger {
+    background-color: #7E8A97;
+}
+.fas fa-circle text-info {
+    background-color: #30475E;
+}
+@import "bootstrap";
