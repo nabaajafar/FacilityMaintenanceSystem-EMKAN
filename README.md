@@ -17,6 +17,7 @@ purposes.
 ● Logging for the UI and WebAPI layer.
 ● Consider Clean code and OOP principles.
 ● Secure Code considerations.
+● use configuration.
 
 
 ![1629981857152](https://user-images.githubusercontent.com/66154604/139239407-344e4e7d-ff73-46a2-8022-45954a512fd6.jpg)
