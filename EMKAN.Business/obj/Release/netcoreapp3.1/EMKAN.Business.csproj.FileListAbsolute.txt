@@ -1,0 +1,16 @@
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Business\bin\Release\netcoreapp3.1\EMKAN.Business.deps.json
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Business\bin\Release\netcoreapp3.1\EMKAN.Business.dll
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Business\bin\Release\netcoreapp3.1\EMKAN.Business.pdb
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Business\bin\Release\netcoreapp3.1\EMKAN.Application.dll
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Business\bin\Release\netcoreapp3.1\EMKAN.DataAccess.dll
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Business\bin\Release\netcoreapp3.1\EMKAN.Entity.dll
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Business\bin\Release\netcoreapp3.1\EMKAN.Application.pdb
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Business\bin\Release\netcoreapp3.1\EMKAN.DataAccess.pdb
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Business\bin\Release\netcoreapp3.1\EMKAN.Entity.pdb
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Business\obj\Release\netcoreapp3.1\EMKAN.Business.csproj.AssemblyReference.cache
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Business\obj\Release\netcoreapp3.1\EMKAN.Business.AssemblyInfoInputs.cache
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Business\obj\Release\netcoreapp3.1\EMKAN.Business.AssemblyInfo.cs
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Business\obj\Release\netcoreapp3.1\EMKAN.Business.csproj.CoreCompileInputs.cache
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Business\obj\Release\netcoreapp3.1\EMKAN.Business.csproj.CopyComplete
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Business\obj\Release\netcoreapp3.1\EMKAN.Business.dll
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Business\obj\Release\netcoreapp3.1\EMKAN.Business.pdb

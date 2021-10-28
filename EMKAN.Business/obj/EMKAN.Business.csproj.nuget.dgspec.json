@@ -1,0 +1,278 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ssarr\\Desktop\\EMKAN_T2\\EMKAN\\EMKAN.Business\\EMKAN.Business.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ssarr\\Desktop\\EMKAN_T2\\EMKAN\\EMKAN.Application\\EMKAN.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ssarr\\Desktop\\EMKAN_T2\\EMKAN\\EMKAN.Application\\EMKAN.Application.csproj",
+        "projectName": "EMKAN.Application",
+        "projectPath": "C:\\Users\\ssarr\\Desktop\\EMKAN_T2\\EMKAN\\EMKAN.Application\\EMKAN.Application.csproj",
+        "packagesPath": "C:\\Users\\ssarr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ssarr\\Desktop\\EMKAN_T2\\EMKAN\\EMKAN.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ssarr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\ssarr\\Desktop\\EMKAN_T2\\EMKAN\\EMKAN.DataAccess\\EMKAN.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\ssarr\\Desktop\\EMKAN_T2\\EMKAN\\EMKAN.DataAccess\\EMKAN.DataAccess.csproj"
+              },
+              "C:\\Users\\ssarr\\Desktop\\EMKAN_T2\\EMKAN\\EMKAN.Entity\\EMKAN.Entity.csproj": {
+                "projectPath": "C:\\Users\\ssarr\\Desktop\\EMKAN_T2\\EMKAN\\EMKAN.Entity\\EMKAN.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ssarr\\Desktop\\EMKAN_T2\\EMKAN\\EMKAN.Business\\EMKAN.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ssarr\\Desktop\\EMKAN_T2\\EMKAN\\EMKAN.Business\\EMKAN.Business.csproj",
+        "projectName": "EMKAN.Business",
+        "projectPath": "C:\\Users\\ssarr\\Desktop\\EMKAN_T2\\EMKAN\\EMKAN.Business\\EMKAN.Business.csproj",
+        "packagesPath": "C:\\Users\\ssarr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ssarr\\Desktop\\EMKAN_T2\\EMKAN\\EMKAN.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ssarr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\ssarr\\Desktop\\EMKAN_T2\\EMKAN\\EMKAN.Application\\EMKAN.Application.csproj": {
+                "projectPath": "C:\\Users\\ssarr\\Desktop\\EMKAN_T2\\EMKAN\\EMKAN.Application\\EMKAN.Application.csproj"
+              },
+              "C:\\Users\\ssarr\\Desktop\\EMKAN_T2\\EMKAN\\EMKAN.DataAccess\\EMKAN.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\ssarr\\Desktop\\EMKAN_T2\\EMKAN\\EMKAN.DataAccess\\EMKAN.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ssarr\\Desktop\\EMKAN_T2\\EMKAN\\EMKAN.DataAccess\\EMKAN.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ssarr\\Desktop\\EMKAN_T2\\EMKAN\\EMKAN.DataAccess\\EMKAN.DataAccess.csproj",
+        "projectName": "EMKAN.DataAccess",
+        "projectPath": "C:\\Users\\ssarr\\Desktop\\EMKAN_T2\\EMKAN\\EMKAN.DataAccess\\EMKAN.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\ssarr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ssarr\\Desktop\\EMKAN_T2\\EMKAN\\EMKAN.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ssarr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\ssarr\\Desktop\\EMKAN_T2\\EMKAN\\EMKAN.Entity\\EMKAN.Entity.csproj": {
+                "projectPath": "C:\\Users\\ssarr\\Desktop\\EMKAN_T2\\EMKAN\\EMKAN.Entity\\EMKAN.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.HealthChecks": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ssarr\\Desktop\\EMKAN_T2\\EMKAN\\EMKAN.Entity\\EMKAN.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ssarr\\Desktop\\EMKAN_T2\\EMKAN\\EMKAN.Entity\\EMKAN.Entity.csproj",
+        "projectName": "EMKAN.Entity",
+        "projectPath": "C:\\Users\\ssarr\\Desktop\\EMKAN_T2\\EMKAN\\EMKAN.Entity\\EMKAN.Entity.csproj",
+        "packagesPath": "C:\\Users\\ssarr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ssarr\\Desktop\\EMKAN_T2\\EMKAN\\EMKAN.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ssarr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
