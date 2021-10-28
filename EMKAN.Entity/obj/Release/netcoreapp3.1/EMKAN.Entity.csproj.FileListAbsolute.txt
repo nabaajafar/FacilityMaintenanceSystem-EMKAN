@@ -1,0 +1,8 @@
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Entity\bin\Release\netcoreapp3.1\EMKAN.Entity.deps.json
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Entity\bin\Release\netcoreapp3.1\EMKAN.Entity.dll
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Entity\bin\Release\netcoreapp3.1\EMKAN.Entity.pdb
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Release\netcoreapp3.1\EMKAN.Entity.AssemblyInfoInputs.cache
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Release\netcoreapp3.1\EMKAN.Entity.AssemblyInfo.cs
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Release\netcoreapp3.1\EMKAN.Entity.csproj.CoreCompileInputs.cache
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Release\netcoreapp3.1\EMKAN.Entity.dll
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Release\netcoreapp3.1\EMKAN.Entity.pdb

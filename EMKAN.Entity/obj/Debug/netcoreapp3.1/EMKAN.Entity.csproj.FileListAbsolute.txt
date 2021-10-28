@@ -1,0 +1,88 @@
+C:/Users/Nabaa/OneDrive/Documents/GitHub/EMKAN_T2/EMKAN/EMKAN.Entity/bin/Debug/netcoreapp3.1/EMKAN.Entity.deps.json
+C:/Users/Nabaa/OneDrive/Documents/GitHub/EMKAN_T2/EMKAN/EMKAN.Entity/bin/Debug/netcoreapp3.1/EMKAN.Entity.dll
+C:/Users/Nabaa/OneDrive/Documents/GitHub/EMKAN_T2/EMKAN/EMKAN.Entity/bin/Debug/netcoreapp3.1/EMKAN.Entity.pdb
+C:/Users/Nabaa/OneDrive/Documents/GitHub/EMKAN_T2/EMKAN/EMKAN.Entity/obj/Debug/netcoreapp3.1/EMKAN.Entity.csprojAssemblyReference.cache
+C:/Users/Nabaa/OneDrive/Documents/GitHub/EMKAN_T2/EMKAN/EMKAN.Entity/obj/Debug/netcoreapp3.1/EMKAN.Entity.AssemblyInfoInputs.cache
+C:/Users/Nabaa/OneDrive/Documents/GitHub/EMKAN_T2/EMKAN/EMKAN.Entity/obj/Debug/netcoreapp3.1/EMKAN.Entity.AssemblyInfo.cs
+C:/Users/Nabaa/OneDrive/Documents/GitHub/EMKAN_T2/EMKAN/EMKAN.Entity/obj/Debug/netcoreapp3.1/EMKAN.Entity.csproj.CoreCompileInputs.cache
+C:/Users/Nabaa/OneDrive/Documents/GitHub/EMKAN_T2/EMKAN/EMKAN.Entity/obj/Debug/netcoreapp3.1/EMKAN.Entity.dll
+C:/Users/Nabaa/OneDrive/Documents/GitHub/EMKAN_T2/EMKAN/EMKAN.Entity/obj/Debug/netcoreapp3.1/EMKAN.Entity.pdb
+/Users/mac/Desktop/EMKAN_T2/EMKAN/EMKAN.Entity/bin/Debug/netcoreapp3.1/EMKAN.Entity.deps.json
+/Users/mac/Desktop/EMKAN_T2/EMKAN/EMKAN.Entity/bin/Debug/netcoreapp3.1/EMKAN.Entity.dll
+/Users/mac/Desktop/EMKAN_T2/EMKAN/EMKAN.Entity/bin/Debug/netcoreapp3.1/EMKAN.Entity.pdb
+/Users/mac/Desktop/EMKAN_T2/EMKAN/EMKAN.Entity/obj/Debug/netcoreapp3.1/EMKAN.Entity.csproj.AssemblyReference.cache
+/Users/mac/Desktop/EMKAN_T2/EMKAN/EMKAN.Entity/obj/Debug/netcoreapp3.1/EMKAN.Entity.AssemblyInfoInputs.cache
+/Users/mac/Desktop/EMKAN_T2/EMKAN/EMKAN.Entity/obj/Debug/netcoreapp3.1/EMKAN.Entity.AssemblyInfo.cs
+/Users/mac/Desktop/EMKAN_T2/EMKAN/EMKAN.Entity/obj/Debug/netcoreapp3.1/EMKAN.Entity.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/EMKAN_T2/EMKAN/EMKAN.Entity/obj/Debug/netcoreapp3.1/EMKAN.Entity.dll
+/Users/mac/Desktop/EMKAN_T2/EMKAN/EMKAN.Entity/obj/Debug/netcoreapp3.1/EMKAN.Entity.pdb
+C:\Users\ssarr\Source\Repos\EMKAN_T2\EMKAN\EMKAN.Entity\bin\Debug\netcoreapp3.1\EMKAN.Entity.deps.json
+C:\Users\ssarr\Source\Repos\EMKAN_T2\EMKAN\EMKAN.Entity\bin\Debug\netcoreapp3.1\EMKAN.Entity.dll
+C:\Users\ssarr\Source\Repos\EMKAN_T2\EMKAN\EMKAN.Entity\bin\Debug\netcoreapp3.1\EMKAN.Entity.pdb
+C:\Users\ssarr\Source\Repos\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.AssemblyInfoInputs.cache
+C:\Users\ssarr\Source\Repos\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.AssemblyInfo.cs
+C:\Users\ssarr\Source\Repos\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.csproj.CoreCompileInputs.cache
+C:\Users\ssarr\Source\Repos\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.dll
+C:\Users\ssarr\Source\Repos\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.pdb
+C:\Users\ssarr\Source\Repos\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\T2\EMKAN_T2\EMKAN\EMKAN.Entity\bin\Debug\netcoreapp3.1\EMKAN.Entity.deps.json
+\\Mac\Home\Desktop\T2\EMKAN_T2\EMKAN\EMKAN.Entity\bin\Debug\netcoreapp3.1\EMKAN.Entity.dll
+\\Mac\Home\Desktop\T2\EMKAN_T2\EMKAN\EMKAN.Entity\bin\Debug\netcoreapp3.1\EMKAN.Entity.pdb
+\\Mac\Home\Desktop\T2\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\T2\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\T2\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.AssemblyInfo.cs
+\\Mac\Home\Desktop\T2\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\T2\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.dll
+\\Mac\Home\Desktop\T2\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.pdb
+\\Mac\Home\Desktop\New Emkan\EMKAN_T2\EMKAN\EMKAN.Entity\bin\Debug\netcoreapp3.1\EMKAN.Entity.deps.json
+\\Mac\Home\Desktop\New Emkan\EMKAN_T2\EMKAN\EMKAN.Entity\bin\Debug\netcoreapp3.1\EMKAN.Entity.dll
+\\Mac\Home\Desktop\New Emkan\EMKAN_T2\EMKAN\EMKAN.Entity\bin\Debug\netcoreapp3.1\EMKAN.Entity.pdb
+\\Mac\Home\Desktop\New Emkan\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\New Emkan\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.AssemblyInfo.cs
+\\Mac\Home\Desktop\New Emkan\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\New Emkan\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.dll
+\\Mac\Home\Desktop\New Emkan\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.pdb
+C:\EMKAN_T2\EMKAN\EMKAN.Entity\bin\Debug\netcoreapp3.1\EMKAN.Entity.deps.json
+C:\EMKAN_T2\EMKAN\EMKAN.Entity\bin\Debug\netcoreapp3.1\EMKAN.Entity.dll
+C:\EMKAN_T2\EMKAN\EMKAN.Entity\bin\Debug\netcoreapp3.1\EMKAN.Entity.pdb
+C:\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.csprojAssemblyReference.cache
+C:\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.AssemblyInfoInputs.cache
+C:\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.AssemblyInfo.cs
+C:\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.csproj.CoreCompileInputs.cache
+C:\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.dll
+C:\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.pdb
+C:\Sara EMKAN\EMKAN_T2\EMKAN\EMKAN.Entity\bin\Debug\netcoreapp3.1\EMKAN.Entity.deps.json
+C:\Sara EMKAN\EMKAN_T2\EMKAN\EMKAN.Entity\bin\Debug\netcoreapp3.1\EMKAN.Entity.dll
+C:\Sara EMKAN\EMKAN_T2\EMKAN\EMKAN.Entity\bin\Debug\netcoreapp3.1\EMKAN.Entity.pdb
+C:\Sara EMKAN\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.csprojAssemblyReference.cache
+C:\Sara EMKAN\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.AssemblyInfoInputs.cache
+C:\Sara EMKAN\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.AssemblyInfo.cs
+C:\Sara EMKAN\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.csproj.CoreCompileInputs.cache
+C:\Sara EMKAN\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.dll
+C:\Sara EMKAN\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.pdb
+C:\Users\Nabaa\OneDrive\Desktop\LAST LAST V\EMKAN_T2\EMKAN\EMKAN.Entity\bin\Debug\netcoreapp3.1\EMKAN.Entity.deps.json
+C:\Users\Nabaa\OneDrive\Desktop\LAST LAST V\EMKAN_T2\EMKAN\EMKAN.Entity\bin\Debug\netcoreapp3.1\EMKAN.Entity.dll
+C:\Users\Nabaa\OneDrive\Desktop\LAST LAST V\EMKAN_T2\EMKAN\EMKAN.Entity\bin\Debug\netcoreapp3.1\EMKAN.Entity.pdb
+C:\Users\Nabaa\OneDrive\Desktop\LAST LAST V\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.csproj.AssemblyReference.cache
+C:\Users\Nabaa\OneDrive\Desktop\LAST LAST V\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.AssemblyInfoInputs.cache
+C:\Users\Nabaa\OneDrive\Desktop\LAST LAST V\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.AssemblyInfo.cs
+C:\Users\Nabaa\OneDrive\Desktop\LAST LAST V\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Nabaa\OneDrive\Desktop\LAST LAST V\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.dll
+C:\Users\Nabaa\OneDrive\Desktop\LAST LAST V\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.pdb
+C:\Users\Nabaa\OneDrive\Desktop\Befor the last v\EMKAN_T2\EMKAN\EMKAN.Entity\bin\Debug\netcoreapp3.1\EMKAN.Entity.deps.json
+C:\Users\Nabaa\OneDrive\Desktop\Befor the last v\EMKAN_T2\EMKAN\EMKAN.Entity\bin\Debug\netcoreapp3.1\EMKAN.Entity.dll
+C:\Users\Nabaa\OneDrive\Desktop\Befor the last v\EMKAN_T2\EMKAN\EMKAN.Entity\bin\Debug\netcoreapp3.1\EMKAN.Entity.pdb
+C:\Users\Nabaa\OneDrive\Desktop\Befor the last v\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.AssemblyInfoInputs.cache
+C:\Users\Nabaa\OneDrive\Desktop\Befor the last v\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.AssemblyInfo.cs
+C:\Users\Nabaa\OneDrive\Desktop\Befor the last v\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Nabaa\OneDrive\Desktop\Befor the last v\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.dll
+C:\Users\Nabaa\OneDrive\Desktop\Befor the last v\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.pdb
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Entity\bin\Debug\netcoreapp3.1\EMKAN.Entity.deps.json
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Entity\bin\Debug\netcoreapp3.1\EMKAN.Entity.dll
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Entity\bin\Debug\netcoreapp3.1\EMKAN.Entity.pdb
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.csproj.AssemblyReference.cache
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.AssemblyInfoInputs.cache
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.AssemblyInfo.cs
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.csproj.CoreCompileInputs.cache
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.dll
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Entity\obj\Debug\netcoreapp3.1\EMKAN.Entity.pdb

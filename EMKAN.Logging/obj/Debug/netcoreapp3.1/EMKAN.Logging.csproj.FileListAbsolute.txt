@@ -1,0 +1,114 @@
+C:/Users/Nabaa/source/repos/EMKAN/EMKAN.Logging/bin/Debug/netcoreapp3.1/EMKAN.Logging.deps.json
+C:/Users/Nabaa/source/repos/EMKAN/EMKAN.Logging/bin/Debug/netcoreapp3.1/EMKAN.Logging.dll
+C:/Users/Nabaa/source/repos/EMKAN/EMKAN.Logging/obj/Debug/netcoreapp3.1/EMKAN.Logging.csprojAssemblyReference.cache
+C:/Users/Nabaa/source/repos/EMKAN/EMKAN.Logging/obj/Debug/netcoreapp3.1/EMKAN.Logging.AssemblyInfoInputs.cache
+C:/Users/Nabaa/source/repos/EMKAN/EMKAN.Logging/obj/Debug/netcoreapp3.1/EMKAN.Logging.AssemblyInfo.cs
+C:/Users/Nabaa/source/repos/EMKAN/EMKAN.Logging/bin/Debug/netcoreapp3.1/EMKAN.Trace.dll
+C:/Users/Nabaa/OneDrive/Documents/GitHub/EMKAN_T2/EMKAN/EMKAN.Logging/bin/Debug/netcoreapp3.1/EMKAN.Logging.deps.json
+C:/Users/Nabaa/OneDrive/Documents/GitHub/EMKAN_T2/EMKAN/EMKAN.Logging/bin/Debug/netcoreapp3.1/EMKAN.Logging.dll
+C:/Users/Nabaa/OneDrive/Documents/GitHub/EMKAN_T2/EMKAN/EMKAN.Logging/bin/Debug/netcoreapp3.1/EMKAN.Logging.pdb
+C:/Users/Nabaa/OneDrive/Documents/GitHub/EMKAN_T2/EMKAN/EMKAN.Logging/bin/Debug/netcoreapp3.1/EMKAN.Trace.dll
+C:/Users/Nabaa/OneDrive/Documents/GitHub/EMKAN_T2/EMKAN/EMKAN.Logging/bin/Debug/netcoreapp3.1/EMKAN.Trace.pdb
+C:/Users/Nabaa/OneDrive/Documents/GitHub/EMKAN_T2/EMKAN/EMKAN.Logging/obj/Debug/netcoreapp3.1/EMKAN.Logging.csprojAssemblyReference.cache
+C:/Users/Nabaa/OneDrive/Documents/GitHub/EMKAN_T2/EMKAN/EMKAN.Logging/obj/Debug/netcoreapp3.1/EMKAN.Logging.AssemblyInfoInputs.cache
+C:/Users/Nabaa/OneDrive/Documents/GitHub/EMKAN_T2/EMKAN/EMKAN.Logging/obj/Debug/netcoreapp3.1/EMKAN.Logging.AssemblyInfo.cs
+C:/Users/Nabaa/OneDrive/Documents/GitHub/EMKAN_T2/EMKAN/EMKAN.Logging/obj/Debug/netcoreapp3.1/EMKAN.Logging.csproj.CoreCompileInputs.cache
+C:/Users/Nabaa/OneDrive/Documents/GitHub/EMKAN_T2/EMKAN/EMKAN.Logging/obj/Debug/netcoreapp3.1/EMKAN.Logging.csproj.CopyComplete
+C:/Users/Nabaa/OneDrive/Documents/GitHub/EMKAN_T2/EMKAN/EMKAN.Logging/obj/Debug/netcoreapp3.1/EMKAN.Logging.dll
+C:/Users/Nabaa/OneDrive/Documents/GitHub/EMKAN_T2/EMKAN/EMKAN.Logging/obj/Debug/netcoreapp3.1/EMKAN.Logging.pdb
+C:\Users\ssarr\Source\Repos\EMKAN_T2\EMKAN\EMKAN.Logging\bin\Debug\netcoreapp3.1\EMKAN.Logging.deps.json
+C:\Users\ssarr\Source\Repos\EMKAN_T2\EMKAN\EMKAN.Logging\bin\Debug\netcoreapp3.1\EMKAN.Logging.dll
+C:\Users\ssarr\Source\Repos\EMKAN_T2\EMKAN\EMKAN.Logging\bin\Debug\netcoreapp3.1\EMKAN.Logging.pdb
+C:\Users\ssarr\Source\Repos\EMKAN_T2\EMKAN\EMKAN.Logging\bin\Debug\netcoreapp3.1\EMKAN.Trace.dll
+C:\Users\ssarr\Source\Repos\EMKAN_T2\EMKAN\EMKAN.Logging\bin\Debug\netcoreapp3.1\EMKAN.Trace.pdb
+C:\Users\ssarr\Source\Repos\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.csproj.AssemblyReference.cache
+C:\Users\ssarr\Source\Repos\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.AssemblyInfoInputs.cache
+C:\Users\ssarr\Source\Repos\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.AssemblyInfo.cs
+C:\Users\ssarr\Source\Repos\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.csproj.CoreCompileInputs.cache
+C:\Users\ssarr\Source\Repos\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.csproj.CopyComplete
+C:\Users\ssarr\Source\Repos\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.dll
+C:\Users\ssarr\Source\Repos\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.pdb
+\\Mac\Home\Desktop\T2\EMKAN_T2\EMKAN\EMKAN.Logging\bin\Debug\netcoreapp3.1\EMKAN.Logging.deps.json
+\\Mac\Home\Desktop\T2\EMKAN_T2\EMKAN\EMKAN.Logging\bin\Debug\netcoreapp3.1\EMKAN.Logging.dll
+\\Mac\Home\Desktop\T2\EMKAN_T2\EMKAN\EMKAN.Logging\bin\Debug\netcoreapp3.1\EMKAN.Logging.pdb
+\\Mac\Home\Desktop\T2\EMKAN_T2\EMKAN\EMKAN.Logging\bin\Debug\netcoreapp3.1\EMKAN.Trace.dll
+\\Mac\Home\Desktop\T2\EMKAN_T2\EMKAN\EMKAN.Logging\bin\Debug\netcoreapp3.1\EMKAN.Trace.pdb
+\\Mac\Home\Desktop\T2\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\T2\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\T2\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.AssemblyInfo.cs
+\\Mac\Home\Desktop\T2\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\T2\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.csproj.CopyComplete
+\\Mac\Home\Desktop\T2\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.dll
+\\Mac\Home\Desktop\T2\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.pdb
+\\Mac\Home\Desktop\New Emkan\EMKAN_T2\EMKAN\EMKAN.Logging\bin\Debug\netcoreapp3.1\EMKAN.Logging.deps.json
+\\Mac\Home\Desktop\New Emkan\EMKAN_T2\EMKAN\EMKAN.Logging\bin\Debug\netcoreapp3.1\EMKAN.Logging.dll
+\\Mac\Home\Desktop\New Emkan\EMKAN_T2\EMKAN\EMKAN.Logging\bin\Debug\netcoreapp3.1\EMKAN.Logging.pdb
+\\Mac\Home\Desktop\New Emkan\EMKAN_T2\EMKAN\EMKAN.Logging\bin\Debug\netcoreapp3.1\EMKAN.Trace.dll
+\\Mac\Home\Desktop\New Emkan\EMKAN_T2\EMKAN\EMKAN.Logging\bin\Debug\netcoreapp3.1\EMKAN.Trace.pdb
+\\Mac\Home\Desktop\New Emkan\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\New Emkan\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\New Emkan\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.AssemblyInfo.cs
+\\Mac\Home\Desktop\New Emkan\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\New Emkan\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.csproj.CopyComplete
+\\Mac\Home\Desktop\New Emkan\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.dll
+\\Mac\Home\Desktop\New Emkan\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.pdb
+C:\EMKAN_T2\EMKAN\EMKAN.Logging\bin\Debug\netcoreapp3.1\EMKAN.Logging.deps.json
+C:\EMKAN_T2\EMKAN\EMKAN.Logging\bin\Debug\netcoreapp3.1\EMKAN.Logging.dll
+C:\EMKAN_T2\EMKAN\EMKAN.Logging\bin\Debug\netcoreapp3.1\EMKAN.Logging.pdb
+C:\EMKAN_T2\EMKAN\EMKAN.Logging\bin\Debug\netcoreapp3.1\EMKAN.Trace.dll
+C:\EMKAN_T2\EMKAN\EMKAN.Logging\bin\Debug\netcoreapp3.1\EMKAN.Trace.pdb
+C:\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.csprojAssemblyReference.cache
+C:\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.AssemblyInfoInputs.cache
+C:\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.AssemblyInfo.cs
+C:\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.csproj.CoreCompileInputs.cache
+C:\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.csproj.CopyComplete
+C:\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.dll
+C:\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.pdb
+C:\Sara EMKAN\EMKAN_T2\EMKAN\EMKAN.Logging\bin\Debug\netcoreapp3.1\EMKAN.Logging.deps.json
+C:\Sara EMKAN\EMKAN_T2\EMKAN\EMKAN.Logging\bin\Debug\netcoreapp3.1\EMKAN.Logging.dll
+C:\Sara EMKAN\EMKAN_T2\EMKAN\EMKAN.Logging\bin\Debug\netcoreapp3.1\EMKAN.Logging.pdb
+C:\Sara EMKAN\EMKAN_T2\EMKAN\EMKAN.Logging\bin\Debug\netcoreapp3.1\EMKAN.Trace.dll
+C:\Sara EMKAN\EMKAN_T2\EMKAN\EMKAN.Logging\bin\Debug\netcoreapp3.1\EMKAN.Trace.pdb
+C:\Sara EMKAN\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.csprojAssemblyReference.cache
+C:\Sara EMKAN\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.AssemblyInfoInputs.cache
+C:\Sara EMKAN\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.AssemblyInfo.cs
+C:\Sara EMKAN\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.csproj.CoreCompileInputs.cache
+C:\Sara EMKAN\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.csproj.CopyComplete
+C:\Sara EMKAN\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.dll
+C:\Sara EMKAN\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.pdb
+C:\Users\Nabaa\OneDrive\Desktop\LAST LAST V\EMKAN_T2\EMKAN\EMKAN.Logging\bin\Debug\netcoreapp3.1\EMKAN.Logging.deps.json
+C:\Users\Nabaa\OneDrive\Desktop\LAST LAST V\EMKAN_T2\EMKAN\EMKAN.Logging\bin\Debug\netcoreapp3.1\EMKAN.Logging.dll
+C:\Users\Nabaa\OneDrive\Desktop\LAST LAST V\EMKAN_T2\EMKAN\EMKAN.Logging\bin\Debug\netcoreapp3.1\EMKAN.Logging.pdb
+C:\Users\Nabaa\OneDrive\Desktop\LAST LAST V\EMKAN_T2\EMKAN\EMKAN.Logging\bin\Debug\netcoreapp3.1\EMKAN.Trace.dll
+C:\Users\Nabaa\OneDrive\Desktop\LAST LAST V\EMKAN_T2\EMKAN\EMKAN.Logging\bin\Debug\netcoreapp3.1\EMKAN.Trace.pdb
+C:\Users\Nabaa\OneDrive\Desktop\LAST LAST V\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.csproj.AssemblyReference.cache
+C:\Users\Nabaa\OneDrive\Desktop\LAST LAST V\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.AssemblyInfoInputs.cache
+C:\Users\Nabaa\OneDrive\Desktop\LAST LAST V\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.AssemblyInfo.cs
+C:\Users\Nabaa\OneDrive\Desktop\LAST LAST V\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.csproj.CoreCompileInputs.cache
+C:\Users\Nabaa\OneDrive\Desktop\LAST LAST V\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.csproj.CopyComplete
+C:\Users\Nabaa\OneDrive\Desktop\LAST LAST V\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.dll
+C:\Users\Nabaa\OneDrive\Desktop\LAST LAST V\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.pdb
+C:\Users\Nabaa\OneDrive\Desktop\Befor the last v\EMKAN_T2\EMKAN\EMKAN.Logging\bin\Debug\netcoreapp3.1\EMKAN.Logging.deps.json
+C:\Users\Nabaa\OneDrive\Desktop\Befor the last v\EMKAN_T2\EMKAN\EMKAN.Logging\bin\Debug\netcoreapp3.1\EMKAN.Logging.dll
+C:\Users\Nabaa\OneDrive\Desktop\Befor the last v\EMKAN_T2\EMKAN\EMKAN.Logging\bin\Debug\netcoreapp3.1\EMKAN.Logging.pdb
+C:\Users\Nabaa\OneDrive\Desktop\Befor the last v\EMKAN_T2\EMKAN\EMKAN.Logging\bin\Debug\netcoreapp3.1\EMKAN.Trace.dll
+C:\Users\Nabaa\OneDrive\Desktop\Befor the last v\EMKAN_T2\EMKAN\EMKAN.Logging\bin\Debug\netcoreapp3.1\EMKAN.Trace.pdb
+C:\Users\Nabaa\OneDrive\Desktop\Befor the last v\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.csproj.AssemblyReference.cache
+C:\Users\Nabaa\OneDrive\Desktop\Befor the last v\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.AssemblyInfoInputs.cache
+C:\Users\Nabaa\OneDrive\Desktop\Befor the last v\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.AssemblyInfo.cs
+C:\Users\Nabaa\OneDrive\Desktop\Befor the last v\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.csproj.CoreCompileInputs.cache
+C:\Users\Nabaa\OneDrive\Desktop\Befor the last v\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.csproj.CopyComplete
+C:\Users\Nabaa\OneDrive\Desktop\Befor the last v\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.dll
+C:\Users\Nabaa\OneDrive\Desktop\Befor the last v\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.pdb
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Logging\bin\Debug\netcoreapp3.1\EMKAN.Logging.deps.json
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Logging\bin\Debug\netcoreapp3.1\EMKAN.Logging.dll
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Logging\bin\Debug\netcoreapp3.1\EMKAN.Logging.pdb
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Logging\bin\Debug\netcoreapp3.1\EMKAN.Trace.dll
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Logging\bin\Debug\netcoreapp3.1\EMKAN.Trace.pdb
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.csproj.AssemblyReference.cache
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.AssemblyInfoInputs.cache
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.AssemblyInfo.cs
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.csproj.CoreCompileInputs.cache
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.csproj.CopyComplete
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.dll
+C:\Users\ssarr\Desktop\EMKAN_T2\EMKAN\EMKAN.Logging\obj\Debug\netcoreapp3.1\EMKAN.Logging.pdb
