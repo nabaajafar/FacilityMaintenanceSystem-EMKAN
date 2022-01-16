@@ -5,19 +5,19 @@ The system is designed using 3-tiers architecture with three physical layers: Pr
 
 The system designed using 3 - tier architecture with ability to create 3 physical
 layers : UI\Presentation layer , Business \WebAPI layer and DataAccess Layer .
-● User MSSQL as RDBMS
-● code first approach
-● Ping action for UI layer (MVC) and for WebAPI layer
-● Health check action to detect system current health status. Used for monitoring
+* User MSSQL as RDBMS
+* code first approach
+* Ping action for UI layer (MVC) and for WebAPI layer
+* Health check action to detect system current health status. Used for monitoring
 purposes.
-● Errors and Exception handling.
-● Middelware.
-● Authentication and Authorization modules using JWT
-● UI\ UX , Look and Feel and responsive design
-● Logging for the UI and WebAPI layer.
-● Consider Clean code and OOP principles.
-● Secure Code considerations.
-● use configuration.
+* Errors and Exception handling.
+* Middelware.
+* Authentication and Authorization modules using JWT
+* UI\ UX , Look and Feel and responsive design
+* Logging for the UI and WebAPI layer.
+* Consider Clean code and OOP principles.
+* Secure Code considerations.
+* use configuration.
 
 
 ![1629981857152](https://user-images.githubusercontent.com/66154604/139239407-344e4e7d-ff73-46a2-8022-45954a512fd6.jpg)
